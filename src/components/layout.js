@@ -5,7 +5,7 @@ import "./layout.css"
 
 const Layout = ({ children }) => (
   <>
-  <h3>Jiratech</h3>
+  <h3>Testing blog reaction</h3>
   <main>{children}</main>
   </>
 )
