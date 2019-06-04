@@ -30,3 +30,6 @@ As engineers, we often experience how reality is rarely at the extremes and rare
 At Knosis we believe in AI. And we believe AI stands for Augmented Intelligence. A better suited term would be Artificial Collaborative Intelligence (A.C.I.). We work to build a future where machines and humans collaborate in providing trusted service to the community. We strive for creating a world where the two forces of intelligence, carbon and silicon based, are joined in fighting the harshness and absurdity of the universe, not fighting each other.
 
 We envisage Knosis as a marketplace for curated human input given on relevant machine learning data sets and data streams.
+
+
+Jiratech test
